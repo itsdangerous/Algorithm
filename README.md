@@ -1,7 +1,3 @@
-# Algorithm problem solving
+### 알고리즘 문제를 푼 것을 정리하는 github 입니다.
 
-## commit 22.7.1
-- #### Solved HASH1, HASH2, HASH3, HASH4
-- #### Solved Sort1, Sort2, Sort3
-
-
+##### 지금까지 알고리즘을 푼 사이트는 Baekjoon, Programmers 입니다.
